@@ -1,5 +1,5 @@
 # Teriyake
-A post-modern style sans serif font.
+A post-modern style sans-serif font.
 
 ![p7ZlIh9M1fbCoEF](https://i.loli.net/2020/11/29/p7ZlIh9M1fbCoEF.png)
 
