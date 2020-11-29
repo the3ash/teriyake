@@ -1,4 +1,4 @@
-# teriyake
+# Teriyake
 A postmodern sans serif font.
 
 
