@@ -1,4 +1,4 @@
-![Frame 1.png](https://i.loli.net/2021/04/13/9GZvuAsJ4NFE5e6.png)
+![Frame 1.png](https://i.loli.net/2021/04/13/ihYzesnVWGXPRFZ.png)
 <br/>
 <br/>
 # Teriyake
