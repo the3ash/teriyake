@@ -2,7 +2,7 @@
 <br/>
 # Teriyake
 
-Teriyake is a post-modern style sans-serif font available in 8 weights. For more [info](https://www.behance.net/gallery/108675449/Teriyake).
+Teriyake is a post-modern style sans-serif font available in 8 weights. For more [preview](https://www.behance.net/gallery/108675449/Teriyake).
 
 ## License
 
