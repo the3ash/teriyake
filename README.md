@@ -8,7 +8,7 @@ Teriyake is a post-modern style sans-serif font available in 8 weights. For more
 <br/>
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is licensed under the SIL Open Font License, Version 1.1.<br/>
 This license is available with an FAQ at http://scripts.sil.org/OFL
 
 
