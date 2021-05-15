@@ -1,4 +1,4 @@
-![cover.png](https://i.loli.net/2021/04/13/ihYzesnVWGXPRFZ.png)
+![cover.png](https://github.com/thasash/teriyake/blob/main/cover.png?raw=true)
 <br/>
 <br/>
 # Teriyake
